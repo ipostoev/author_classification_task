@@ -1,0 +1,4 @@
+,embedding,model,learning,accuracy,datetime
+0,bow norm 3-15,"TextClassificationModel(
+  (fc): Linear(in_features=2000, out_features=2, bias=True)
+)",SGD lr 5.0 bt 4,0.824,"11/10/2022, 16:30:30"
